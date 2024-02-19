@@ -1,0 +1,15 @@
+src/MCAL/SYSTICK/SYSTICK_pro.o: ../src/MCAL/SYSTICK/SYSTICK_pro.c \
+ ../src/MCAL/SYSTICK/../../LIB/STD_TYPES.h \
+ ../src/MCAL/SYSTICK/../../LIB/BIT_MATH.h \
+ ../src/MCAL/SYSTICK/SISTICK_int.h ../src/MCAL/SYSTICK/SISTICK_cfg.h \
+ ../src/MCAL/SYSTICK/SISTICK_prv.h
+
+../src/MCAL/SYSTICK/../../LIB/STD_TYPES.h:
+
+../src/MCAL/SYSTICK/../../LIB/BIT_MATH.h:
+
+../src/MCAL/SYSTICK/SISTICK_int.h:
+
+../src/MCAL/SYSTICK/SISTICK_cfg.h:
+
+../src/MCAL/SYSTICK/SISTICK_prv.h:
